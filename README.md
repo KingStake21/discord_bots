@@ -24,6 +24,9 @@ https://discord.com/api/oauth2/authorize?client_id=1243347115271520326&permissio
 ### SNEK ###
 https://discord.com/api/oauth2/authorize?client_id=1243341351337328731&permissions=134285312&scope=bot%20applications.commands
 
+### COPI ###
+https://discord.com/api/oauth2/authorize?client_id=1243713109173080114&permissions=134285312&scope=bot%20applications.commands
+
 <br><br>
 # **SOLANA**
 ### KIN ###
